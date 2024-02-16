@@ -7,3 +7,6 @@ export * from "./Units";
 export * from "./Weather";
 export * from "./Currency";
 export * from "./Languages";
+export * from "./Financial";
+export * from "./Health";
+export * from "./Education";

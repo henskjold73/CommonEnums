@@ -1,0 +1,47 @@
+export enum StockMarketIndexes {
+  DowJones = "Dow Jones Industrial Average",
+  NASDAQ = "NASDAQ Composite",
+  SP500 = "S&P 500",
+  FTSE100 = "FTSE 100",
+  DAX = "DAX",
+  CAC40 = "CAC 40",
+  Nikkei225 = "Nikkei 225",
+  HangSeng = "Hang Seng",
+  ShanghaiComposite = "Shanghai Composite",
+  ASX200 = "ASX 200",
+  BSESENSEX = "BSE SENSEX",
+  BOVESPA = "BOVESPA",
+}
+
+export enum InvestmentTypes {
+  Stocks = "Stocks",
+  Bonds = "Bonds",
+  MutualFunds = "Mutual Funds",
+  ETFs = "Exchange Traded Funds (ETFs)",
+  RealEstate = "Real Estate",
+  Commodities = "Commodities",
+  Cryptocurrencies = "Cryptocurrencies",
+  PrivateEquity = "Private Equity",
+  HedgeFunds = "Hedge Funds",
+  MoneyMarketFunds = "Money Market Funds",
+  CertificatesOfDeposit = "Certificates of Deposit",
+  RetirementAccounts = "Retirement Accounts (401(k), IRA)",
+}
+
+export enum EconomicIndicators {
+  GDP = "Gross Domestic Product (GDP)",
+  UnemploymentRate = "Unemployment Rate",
+  CPI = "Consumer Price Index (CPI)",
+  PPI = "Producer Price Index (PPI)",
+  PMI = "Purchasing Managers' Index (PMI)",
+  ConsumerConfidenceIndex = "Consumer Confidence Index",
+  RetailSales = "Retail Sales",
+  HousingStarts = "Housing Starts",
+  IndustrialProduction = "Industrial Production",
+  TradeBalance = "Trade Balance",
+  InflationRate = "Inflation Rate",
+  InterestRates = "Interest Rates",
+  PersonalIncome = "Personal Income",
+  BusinessInventories = "Business Inventories",
+  NonfarmPayroll = "Nonfarm Payroll",
+}

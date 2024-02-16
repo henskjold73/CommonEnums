@@ -10,3 +10,4 @@ export * from "./Languages";
 export * from "./Financial";
 export * from "./Health";
 export * from "./Education";
+export * from "./Sports";

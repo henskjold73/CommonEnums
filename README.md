@@ -149,6 +149,16 @@ console.log(Languages.English); // Output: en
 - LanguagesMostUsed
 - Languages
 
+### Sports
+
+- SportsAll
+- AmericanSports
+- EuropeanSports
+- AsianSports
+- BallSports
+- TrackAndField
+- AnimalSports
+
 ### Timezones
 
 - TimeZones

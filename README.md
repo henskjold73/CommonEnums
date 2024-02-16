@@ -206,3 +206,7 @@ Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](./C
 ## License
 
 This project is licensed under the [MIT License](./LICENSE). -->
+
+## Support
+
+If you like this project, please consider supporting me by [buying me a coffee](https://www.buymeacoffee.com/horrible).

@@ -1,6 +1,6 @@
 {
   "name": "commonenums",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "This npm package offers a comprehensive set of enums to streamline development across various domains, categorized into exhausted, suggested, and expected types. It enhances code readability and maintenance by providing standard, extendable, and universally expected enums.",
   "main": "dist/index.js",
   "scripts": {
@@ -29,5 +29,9 @@
   "bugs": {
     "url": "https://github.com/henskjold73/CommonEnums/issues"
   },
-  "homepage": "https://github.com/henskjold73/CommonEnums#readme"
+  "homepage": "https://github.com/henskjold73/CommonEnums#readme",
+  "funding": {
+    "type": "individual",
+    "url": "https://www.buymeacoffee.com/horrible"
+  }
 }

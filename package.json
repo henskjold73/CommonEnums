@@ -1,0 +1,25 @@
+{
+  "name": "commonenums",
+  "version": "1.0.2",
+  "description": "This npm package offers a comprehensive set of enums to streamline development across various domains, categorized into exhausted, suggested, and expected types. It enhances code readability and maintenance by providing standard, extendable, and universally expected enums.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "jest"
+  },
+  "author": "horrible",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.9",
+    "@babel/preset-typescript": "^7.23.3",
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "typescript": "^5.3.3"
+  },
+  "files": [
+    "dist",
+    "src",
+    "README.md",
+    "package.json"
+  ]
+}

@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# TypeScript compiled JavaScript files
+dist/
+build/
+
+# Environment files
+.env
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo

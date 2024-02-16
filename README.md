@@ -70,12 +70,33 @@ console.log(Languages.English); // Output: en
 - Holidays
 - RelativeDates
 
+### Education
+
+- EducationLevels
+- AcademicDegrees
+- SchoolSubjects
+
+### Financial
+
+- StockMarketIndexes
+- InvestmentTypes
+- EconomicIndicators
+
 ### Geo
 
 - CardinalDirections
 - OrdinalDirections
 - CompassDirections
 - MapDirections
+
+### Health
+
+- Diseases
+- MedicalSpecialties
+- BloodTypes
+- UnitsOfMeasurementMedication
+- UnitsOfMeasurementVitalSigns
+- MedicationForms
 
 ### IT
 

@@ -28,12 +28,14 @@ def main():
                         enum_by_file[base_filename] = []
                     enum_by_file[base_filename].extend(enums)
 
-    # Print enums grouped by filename
-    for filename, enums in enum_by_file.items():
-        print(f"### {filename}")
-        for enum in enums:
-            print(f"- {enum}")
-        print()
+    # Open a file to write the output
+    with open('enums.md', 'w', encoding='utf-8') as md_file:
+        # Print enums grouped by filename and write to enums.md
+        for filename, enums in enum_by_file.items():
+            md_file.write(f"### {filename}\n")
+            for enum in enums:
+                md_file.write(f"- {enum}\n")
+            md_file.write("\n")
 
 # Start the script
 if __name__ == "__main__":

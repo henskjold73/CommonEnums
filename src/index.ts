@@ -11,3 +11,4 @@ export * from "./Financial";
 export * from "./Health";
 export * from "./Education";
 export * from "./Sports";
+export * from "./Technology";

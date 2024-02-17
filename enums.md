@@ -104,6 +104,23 @@
 - LanguagesMostUsed
 - Languages
 
+### Science
+- Physics
+- Chemistry
+- Biology
+- Geology
+- Astronomy
+- Mathematics
+- ComputerScience
+- Medicine
+- OtherScience
+- ChemicalElement
+- ChemicalCompounds
+- Planets
+- Moons
+- Plantoids
+- AstronomicalObjects
+
 ### Sports
 - SportsAll
 - AmericanSports
@@ -112,6 +129,31 @@
 - BallSports
 - TrackAndField
 - AnimalSports
+
+### Technology
+- ProgrammingLanguages
+- FrontendFrameworks
+- BackendFrameworks
+- Databases
+- DevOps
+- CloudProviders
+- Containerization
+- Monitoring
+- Testing
+- VersionControl
+- Editors
+- Platforms
+- OtherTech
+- OperatingSystems
+- Browsers
+- MobileBrowsers
+- MobileOS
+- WebServers
+- Security
+- DeviceTypes
+- WebFrameworks
+- WebTechnologies
+- SoftwareLicenses
 
 ### Timezones
 - TimeZones

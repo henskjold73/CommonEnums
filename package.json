@@ -1,11 +1,11 @@
 {
   "name": "commonenums",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "This npm package offers a comprehensive set of enums to streamline development across various domains, categorized into exhausted, suggested, and expected types. It enhances code readability and maintenance by providing standard, extendable, and universally expected enums.",
   "main": "dist/index.js",
   "scripts": {
     "enums": "python ./scripts/enums.py",
-    "publish": "npm run enums && npx tsc && npm publish", 
+    "push": "npm run enums && npx tsc && npm publish", 
     "build": "npx tsc",
     "test": "jest"
   },
